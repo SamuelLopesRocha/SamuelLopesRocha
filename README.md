@@ -27,8 +27,8 @@ Desenvolvedor em formação focado em Back-end e Full Stack, buscando oportunida
 ## 🔥 Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelLopesRocha&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLopesRocha&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -36,5 +36,5 @@ Desenvolvedor em formação focado em Back-end e Full Stack, buscando oportunida
 ## 📊 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelLopesRocha&theme=tokyo-night" />
 </p>+++
