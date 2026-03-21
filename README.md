@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Samuel Lopes</h1>
+<h1 align="center">Olá 👋, Eu sou Samuel Lopes Gomes da Rocha</h1>
 
 <p align="center">
 Desenvolvedor em formação focado em Back-end e Full Stack, buscando oportunidades para atuar em projetos reais e evoluir constantemente na área de tecnologia.
