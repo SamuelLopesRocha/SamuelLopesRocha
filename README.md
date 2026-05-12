@@ -31,6 +31,6 @@
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelLopesRocha&theme=github_dark" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelLopesRocha&theme=holi" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelLopesRocha&theme=github_dark" width="49.5%" />
 </div>
