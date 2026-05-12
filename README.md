@@ -26,15 +26,11 @@
 
 ## 🔥 Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api username=SamuelLopesRocha&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLopesRocha&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelLopesRocha&theme=github_dark" width="100%" />
 
----
+  <br/>
 
-## 📊 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelLopesRocha&theme=tokyo-night" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelLopesRocha&theme=holi" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelLopesRocha&theme=github_dark" width="49.5%" />
+</div>
